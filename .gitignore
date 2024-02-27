@@ -20,5 +20,7 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
-#test
+#local environment settings
 venv/
+#enviroment settings
+.env
