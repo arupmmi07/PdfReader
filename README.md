@@ -15,5 +15,7 @@ conda activate venv/
 Install Dependencies:
 pip install -r requirement.txt
 
-
-
+# Add .env files in the main root folder
+# Generate your google API key from [ai.google.com ](https://ai.gemini.dev)
+add your api keys here like
+GOOGLE_API_KEY="your api key"
